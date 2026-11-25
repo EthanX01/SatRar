@@ -1,0 +1,14 @@
+{
+  "exe_sha256": "73b6cfd77c4645282ff8c38e2f13c0900e07b1a263b90fa7ae1dbc5e407097b7",
+  "solver_sha256": "b0fe6b8f8582b854982693b4fb866b8adbda3816601edfe81c436e465797be35",
+  "solver_version": "2.1.0",
+  "host": "Windows-11-10.0.26200-SP0",
+  "wire_limit": 0,
+  "solver_timeout": 15,
+  "case_timeout": 30,
+  "scope": "paper",
+  "verify": false,
+  "summary_only": true,
+  "max_trials": 100000,
+  "shard_wires": 400
+}

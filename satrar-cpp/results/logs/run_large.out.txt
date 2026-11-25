@@ -1,0 +1,11 @@
+[spec_full_large] start 11/25/2026 11:43:57
+b14 wire ok search=complete verify=unchecked coverage=full
+b14 l0 ok search=complete verify=unchecked coverage=full
+b14 l1 ok search=complete verify=unchecked coverage=full
+b15 wire ok search=complete verify=unchecked coverage=full
+b15 l0 ok search=complete verify=unchecked coverage=full
+b15 l1 ok search=complete verify=unchecked coverage=full
+b17 wire ok search=complete verify=unchecked coverage=full
+b17 l0 ok search=complete verify=unchecked coverage=full
+b17 l1 ok search=complete verify=unchecked coverage=full
+[spec_full_large] exit 0 after 9347s

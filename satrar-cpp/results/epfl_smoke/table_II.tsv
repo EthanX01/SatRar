@@ -1,0 +1,3 @@
+circuit	#wire	searched_wires	original_wires	wire:status	wire:#tar	wire:#alt	wire:#T	gate:status	gate:#tar	gate:#alt	gate:#T	gate_nolearn:status	gate_nolearn:#tar	gate_nolearn:#alt	gate_nolearn:#T	gate_nofilter:status	gate_nofilter:#tar	gate_nofilter:#alt	gate_nofilter:#T
+ctrl	348	4		ok	0	0	0.0003212	ok	0	0	0.0003376	ok	0	0	0.0005369	ok	0	0	0.0003181
+dec	608	4		ok	0	0	0.0006554	ok	0	0	0.0006596	ok	0	0	0.0009283	ok	0	0	0.0006721

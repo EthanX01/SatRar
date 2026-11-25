@@ -1,0 +1,4 @@
+cand id=0 key=13,0,1,13,w,25
+cand id=1 key=13,0,1,13,w,23
+cand id=2 key=13,0,1,15,w,25
+cand id=3 key=13,0,1,15,w,23

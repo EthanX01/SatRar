@@ -1,0 +1,114 @@
+{
+  "name": "Wu et al. ASP-DAC 2009 Table I and II input slots",
+  "sources": [
+    "https://pld.ttu.ee/~maksim/benchmarks/",
+    "https://ddd.fit.cvut.cz/www/prj/Benchmarks/index.php?page=download"
+  ],
+  "circuits": [
+    {
+      "id": "C432",
+      "path": "inputs/iscas85/c432.bench",
+      "source_url": "https://github.com/gatelabdavis/RANE/blob/master/benchmarks/bench/original/c432.bench",
+      "git_blob": "2311d8f28da488e1df86767c665374fe66f4c4ba",
+      "paper_wire_count": 336,
+      "paper_wire_count_text": "336"
+    },
+    {
+      "id": "C499",
+      "path": "inputs/iscas85/c499.bench",
+      "source_url": "https://github.com/gatelabdavis/RANE/blob/master/benchmarks/bench/original/c499.bench",
+      "git_blob": "e1c4d2acdccf7a5ebc57eb419888bb2ae12841a3",
+      "paper_wire_count": 408,
+      "paper_wire_count_text": "408"
+    },
+    {
+      "id": "C3540",
+      "path": "inputs/iscas85/c3540.bench",
+      "source_url": "https://github.com/gatelabdavis/RANE/blob/master/benchmarks/bench/original/c3540.bench",
+      "git_blob": "9a1496534c2e42b0f90e89a47e7dcfd0f15af956",
+      "paper_wire_count": 2939,
+      "paper_wire_count_text": "2939"
+    },
+    {
+      "id": "C6288",
+      "path": "inputs/iscas85/c6288.bench",
+      "source_url": "https://github.com/aparajithanNV/vlsi-sta-engine/blob/master/iscas85/c6288.bench",
+      "git_blob": "0a5a493e6683b8ad9291fa524288d1ffc9205fc3",
+      "paper_wire_count": 4800,
+      "paper_wire_count_text": "4800"
+    },
+    {
+      "id": "C7552",
+      "path": "inputs/iscas85/c7552.bench",
+      "source_url": "https://github.com/gatelabdavis/RANE/blob/master/benchmarks/bench/original/c7552.bench",
+      "git_blob": "e46d7c319172b84631b28393d1109e3438427568",
+      "paper_wire_count": 6144,
+      "paper_wire_count_text": "6144"
+    },
+    {
+      "id": "b01",
+      "path": "inputs/itc99/b01.bench",
+      "cut_latches": true,
+      "source_url": "https://github.com/AnmolSinghNarwariya/ITC99_benchmark_circuits/blob/main/b01/b01.bench",
+      "git_blob": "48ae6ca5e47819be95e8f5358f456f087972c185",
+      "paper_wire_count": 80,
+      "paper_wire_count_text": "80"
+    },
+    {
+      "id": "b13",
+      "path": "inputs/itc99/b13.bench",
+      "cut_latches": true,
+      "source_url": "https://github.com/AnmolSinghNarwariya/ITC99_benchmark_circuits/blob/main/b13/b13.bench",
+      "git_blob": "feb0218293d06f42294a9a58261c5efd1fd08b94",
+      "paper_wire_count": 558,
+      "paper_wire_count_text": "558"
+    },
+    {
+      "id": "b14",
+      "path": "inputs/itc99/b14.bench",
+      "cut_latches": true,
+      "source_url": "https://github.com/AnmolSinghNarwariya/ITC99_benchmark_circuits/blob/main/b14/b14.bench",
+      "git_blob": "a387d74dbc511e125248043995b1866eb5e02b86",
+      "paper_wire_count": 19000,
+      "paper_wire_count_text": "1.9e4"
+    },
+    {
+      "id": "b15",
+      "path": "inputs/itc99/b15.bench",
+      "cut_latches": true,
+      "source_url": "https://github.com/AnmolSinghNarwariya/ITC99_benchmark_circuits/blob/main/b15/b15.bench",
+      "git_blob": "d7b81ba5bf4613d756599e22e4d25bd361c74165",
+      "paper_wire_count": 17000,
+      "paper_wire_count_text": "1.7e4"
+    },
+    {
+      "id": "b17",
+      "path": "inputs/itc99/b17.bench",
+      "cut_latches": true,
+      "source_url": "https://github.com/AnmolSinghNarwariya/ITC99_benchmark_circuits/blob/main/b17/b17.bench",
+      "git_blob": "2744c89619718a30ba7b38e0916741ec70e344d0",
+      "paper_wire_count": 62000,
+      "paper_wire_count_text": "6.2e4"
+    },
+    {
+      "id": "b18",
+      "path": "inputs/itc99/b18.bench",
+      "cut_latches": true,
+      "source_url": "https://github.com/AnmolSinghNarwariya/ITC99_benchmark_circuits/blob/main/b18/b18.bench",
+      "git_blob": "583dc7947e50bd47b8b80b9d98dc833b74a1b40b",
+      "paper_wire_count": 220000,
+      "paper_wire_count_text": "2.2e5"
+    },
+    {
+      "id": "b19",
+      "path": "inputs/itc99/b19.bench",
+      "cut_latches": true,
+      "source_url": "https://github.com/AnmolSinghNarwariya/ITC99_benchmark_circuits/blob/main/b19/b19.bench",
+      "git_blob": "150930c1502857fe981527df3c5da6aff2e72a3a",
+      "paper_wire_count": 430000,
+      "paper_wire_count_text": "4.3e5"
+    }
+  ],
+  "paper_wire_count_source": "Wu, Lin, Huang, Huang, ASP-DAC 2009, Table I/II column #wire (pp.195-196); values keep the paper's printed precision (1.9e4 is not an exact count).",
+  "topology_profile": "aig"
+}

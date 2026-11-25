@@ -1,0 +1,9 @@
+circuit	mode	and_var	pin	stuck	alternatives	search_seconds	limited	target_conflict	redundant_dominators	trials	sub_probes	limit_step	limit_scope
+b19	wire	6667	0	0	0	0.180215	0	0	0	0	0	none	none
+b19	wire	6667	0	1	0	0.0031859	0	0	0	0	0	none	none
+b19	wire	6667	1	0	0	0.0026413	0	0	0	0	0	none	none
+b19	wire	6667	1	1	0	0.0023359	0	0	0	0	0	none	none
+b19	wire	6668	0	0	0	0.0023071	0	0	0	0	0	none	none
+b19	wire	6668	0	1	0	0.0026149	0	0	0	0	0	none	none
+b19	wire	6668	1	0	0	0.0023534	0	0	0	0	0	none	none
+b19	wire	6668	1	1	0	0.0023376	0	0	0	0	0	none	none

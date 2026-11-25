@@ -1,0 +1,13 @@
+circuit	#wire	paper_wire_count	original_wires	topology_profile	wire:status	wire:coverage	wire:searched_wires	wire:complete_wires	wire:#tar	wire:#alt	wire:#T	l0:status	l0:coverage	l0:searched_wires	l0:complete_wires	l0:#tar	l0:#alt	l0:#T	l1:status	l1:coverage	l1:searched_wires	l1:complete_wires	l1:#tar	l1:#alt	l1:#T	l2:status	l2:coverage	l2:searched_wires	l2:complete_wires	l2:#tar	l2:#alt	l2:#T
+C432	424	336	336	aig	ok	smoke	4	4	2	3	0.0003954	ok	smoke	4	4	2	2	0.000328	ok	smoke	4	4	2	3	0.0004934	ok	smoke	4	4	2	3	0.0011342
+C499	828	408	408	aig	ok	smoke	4	4	0	0	0.0101905	ok	smoke	4	4	0	0	0.0101578	ok	smoke	4	4	0	0	0.0101201	ok	smoke	4	4	0	0	0.0108838
+C3540	2540	2939	2939	aig	ok	smoke	4	4	2	8	0.0031711	ok	smoke	4	4	0	0	0.0027472	ok	smoke	4	4	2	8	0.0031979	ok	smoke	4	4	2	8	0.004088
+C6288	4768	4800	4800	aig	ok	smoke	4	4	0	0	0.0008813	ok	smoke	4	4	0	0	0.0009076	ok	smoke	4	4	0	0	0.0009872	ok	smoke	4	4	0	0	0.0010024
+C7552	5264	6144	6144	aig	ok	smoke	4	4	0	0	0.0015037	ok	smoke	4	4	0	0	0.0013713	ok	smoke	4	4	0	0	0.001744	ok	smoke	4	4	0	0	0.0015878
+b01	80	80	85	aig	ok	smoke	4	4	0	0	0.0001093	ok	smoke	4	4	0	0	7.58e-05	ok	smoke	4	4	0	0	9.68e-05	ok	smoke	4	4	0	0	9.54e-05
+b13	538	558	611	aig	ok	smoke	4	4	2	9	0.0002369	ok	smoke	4	4	2	9	0.0002404	ok	smoke	4	4	2	9	0.0003106	ok	smoke	4	4	2	9	0.000447
+b14	18300	1.9e4	19162	aig	ok	smoke	4	4	4	16	0.0097286	ok	smoke	4	4	2	14	0.0102379	ok	smoke	4	4	4	16	0.0104713	ok	smoke	4	4	4	16	0.0110272
+b15	17754	1.7e4	17693	aig	ok	smoke	4	4	2	11	0.0061309	ok	smoke	4	4	0	0	0.0038493	ok	smoke	4	4	2	7	0.0062863	ok	smoke	4	4	2	7	0.0126353
+b17	62016	6.2e4	63200	aig	ok	smoke	4	4	0	0	0.0186517	ok	smoke	4	4	0	0	0.0193433	ok	smoke	4	4	0	0	0.0183069	ok	smoke	4	4	0	0	0.0183672
+b18	209160	2.2e5	219141	aig	ok	smoke	4	4	0	0	0.198062	ok	smoke	4	4	0	0	0.19064	ok	smoke	4	4	0	0	0.189236	ok	smoke	4	4	0	0	0.261069
+b19	421170	4.3e5	441851	aig	ok	smoke	4	4	0	0	0.184527	ok	smoke	4	4	0	0	0.188772	ok	smoke	4	4	0	0	0.220187	ok	smoke	4	4	0	0	0.217429

@@ -1,0 +1,111 @@
+{
+  "schema": 4,
+  "offset": 16,
+  "limit": 2,
+  "message": "",
+  "targets": [
+    [
+      "15",
+      "0",
+      "0",
+      "0",
+      "4.67e-05",
+      "0",
+      "0",
+      "0",
+      "8",
+      "0",
+      "none",
+      "none"
+    ],
+    [
+      "15",
+      "0",
+      "1",
+      "1",
+      "4.27e-05",
+      "0",
+      "0",
+      "0",
+      "20",
+      "0",
+      "none",
+      "none"
+    ],
+    [
+      "15",
+      "1",
+      "0",
+      "0",
+      "3.26e-05",
+      "0",
+      "0",
+      "0",
+      "8",
+      "0",
+      "none",
+      "none"
+    ],
+    [
+      "15",
+      "1",
+      "1",
+      "1",
+      "2.05e-05",
+      "0",
+      "0",
+      "0",
+      "8",
+      "0",
+      "none",
+      "none"
+    ]
+  ],
+  "candidates": [
+    [
+      "15",
+      "0",
+      "1",
+      "attach=15 rule=opposite-MA source_raw=29",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "none",
+      "0.0716181"
+    ],
+    [
+      "15",
+      "1",
+      "1",
+      "attach=15 rule=opposite-MA source_raw=12",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "none",
+      "0.0666699"
+    ]
+  ],
+  "summary": [
+    18,
+    2,
+    2,
+    2,
+    2,
+    0.0001425,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    44,
+    0.138288,
+    3.7e-06,
+    0.0,
+    0.0,
+    1.36e-05
+  ],
+  "wall_seconds": 0.1481634999945527,
+  "search_status": "complete",
+  "verify_status": "complete"
+}

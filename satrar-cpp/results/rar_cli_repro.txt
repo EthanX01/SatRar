@@ -1,0 +1,13 @@
+# Reproduce verified wire alternatives (after cmake --build + test_rar_discover)
+# Run from satrar-cpp directory:
+#   .\build-msvc\Release\satrar.exe
+
+read tests\fixtures\and_self.aag
+stats
+gate 2
+fanin 2
+rar_l0 2 0 sa0
+rar_l0 2 0 sa1
+rar_l0 2 1 sa0
+rar_wire 2 0 sa0
+quit

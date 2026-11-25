@@ -1,0 +1,4 @@
+circuit	#wire	searched_wires	original_wires	wire:status	wire:#tar	wire:#alt	wire:#T	l0:status	l0:#tar	l0:#alt	l0:#T	l1:status	l1:#tar	l1:#alt	l1:#T	l2:status	l2:#tar	l2:#alt	l2:#T
+C3540	2540	2540	2939	ok	1064	4716	2.64055	ok	832	3484	1.93513	ok	1018	4809	5.53198	timeout			
+C6288	4768	4768	4800	ok	0	0	0.442025	ok	0	0	0.445616	ok	30	30	0.569804	ok	30	30	1.22381
+C7552	5264	5264	6144	ok	2076	14576	13.9303	ok	1262	10662	13.4197	ok	1883	23874	17.7647	timeout			

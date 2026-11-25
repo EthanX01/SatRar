@@ -1,0 +1,31 @@
+{
+  "schema": 4,
+  "offset": 0,
+  "limit": 0,
+  "message": "",
+  "targets": [],
+  "candidates": [],
+  "summary": [
+    4768,
+    4768,
+    4768,
+    30,
+    30,
+    0.546371,
+    0,
+    0,
+    0,
+    30,
+    0,
+    68,
+    53524,
+    0.0,
+    0.0060918,
+    0.0,
+    0.0,
+    7.81e-05
+  ],
+  "wall_seconds": 0.563814299996011,
+  "search_status": "complete",
+  "verify_status": "unchecked"
+}

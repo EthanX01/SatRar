@@ -1,0 +1,5 @@
+circuit	#wire	searched_wires	original_wires	wire:status	wire:#tar	wire:#alt	wire:#T	l0:status	l0:#tar	l0:#alt	l0:#T	l1:status	l1:#tar	l1:#alt	l1:#T	l2:status	l2:#tar	l2:#alt	l2:#T
+b14			19162	timeout				timeout				not_run				not_run			
+b15			17693	timeout				timeout				not_run				not_run			
+b17			63200	timeout				timeout				not_run				not_run			
+b18			219141	timeout				timeout				not_run				not_run			

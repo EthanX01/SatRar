@@ -1,0 +1,12 @@
+circuit	#wire	searched_wires	original_wires	wire:status	wire:#tar	wire:#alt	wire:#T	gate:status	gate:#tar	gate:#alt	gate:#T	gate_nolearn:status	gate_nolearn:#tar	gate_nolearn:#alt	gate_nolearn:#T	gate_nofilter:status	gate_nofilter:#tar	gate_nofilter:#alt	gate_nofilter:#T
+C432	424	1	336	ok	0	0	0.0001965	not_run				not_run				not_run			
+C499	828	1	408	ok	0	0	0.0046827	not_run				not_run				not_run			
+C3540	2540	1	2939	ok	1	4	0.0018381	not_run				not_run				not_run			
+C6288	4768	1	4800	ok	0	0	0.0012981	not_run				not_run				not_run			
+C7552	5264	1	6144	ok	0	0	0.0016305	not_run				not_run				not_run			
+b01	80	1	85	ok	0	0	3.95e-05	not_run				not_run				not_run			
+b13	538	1	611	ok	0	0	0.000167	not_run				not_run				not_run			
+b14	18300	1	19162	ok	1	8	0.009794	not_run				not_run				not_run			
+b15	17754	1	17693	ok	1	2	0.005542	not_run				not_run				not_run			
+b17	62016	1	63200	ok	0	0	0.023336	not_run				not_run				not_run			
+b18	209160	1	219141	ok	0	0	0.831207	not_run				not_run				not_run			

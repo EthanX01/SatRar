@@ -1,0 +1,2 @@
+read C:\Users\User\Documents\file\NTU\EdaLab\satrar-circuit-v2\tests\fixtures\paper\fig1.aag
+rar_search 13 0 sa1 sub

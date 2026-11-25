@@ -1,0 +1,6 @@
+{
+  "wall_seconds": 45.37127979999059,
+  "peak_working_set_mb_python_process": 28.90625,
+  "note": "peak memory covers this Python process only; the satrar child process is not included",
+  "rows": 8
+}

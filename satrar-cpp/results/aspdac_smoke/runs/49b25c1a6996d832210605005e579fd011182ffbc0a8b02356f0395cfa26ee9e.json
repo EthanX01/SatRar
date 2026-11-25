@@ -1,0 +1,78 @@
+{
+  "status": "ok",
+  "targets": [
+    [
+      "59",
+      "0",
+      "0",
+      "4",
+      "0.0006842",
+      "0",
+      "0"
+    ],
+    [
+      "59",
+      "0",
+      "1",
+      "0",
+      "0.0012135",
+      "0",
+      "0"
+    ]
+  ],
+  "candidates": [
+    [
+      "59",
+      "0",
+      "0",
+      "attach=99 rule=Theorem-1 source_raw=229",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "0.881012"
+    ],
+    [
+      "59",
+      "0",
+      "0",
+      "attach=99 rule=Theorem-1 source_raw=307",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "0.821192"
+    ],
+    [
+      "59",
+      "0",
+      "0",
+      "attach=99 rule=Theorem-1 source_raw=311",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "1.0039"
+    ],
+    [
+      "59",
+      "0",
+      "0",
+      "attach=99 rule=Theorem-1 source_raw=343",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "0.774537"
+    ]
+  ],
+  "summary": [
+    "2540",
+    "1",
+    "1",
+    "4",
+    "0.0018977",
+    "1",
+    "4",
+    "0",
+    "0",
+    "0",
+    "3.48064"
+  ]
+}

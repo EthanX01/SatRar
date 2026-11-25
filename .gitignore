@@ -1,0 +1,38 @@
+# Generated build trees. Source, fixtures, benchmarks, and recorded results stay.
+satrar-cpp/build/
+satrar-cpp/build-msvc/
+satrar-circuit-v2/build-msvc/
+**/__pycache__/
+~$*
+*.tmp
+.env
+.env.*
+
+# This git root is the lab folder. Only SatRAR is in the repository.
+/20261124_SATRAR/
+/ASPDAC-2009-SatRAR/
+/EdaPaper/
+/Lazy_SAT_project/
+/malik-sat-review-cade_cav_2002/
+/minisat-solver/
+/output/
+/paper_review_template/
+/satcompetition-site/
+/SAT_Solver_Study/
+/tetris_slim_lazy_sat/
+/tmp/
+/zChaff_DAC2001v56/
+/__pycache__/
+/AGENTS.md
+/texput.log
+/requirements.txt
+/recover_tetris_docx.py
+/*.docx
+/*.ppt
+/*.pptx
+/06. Introduction to SAT.pdf
+/07.  Advanced SAT Techniques.pdf
+/11. Applications of SAT on Logic Syn Copy.pdf
+/20261104_report.md
+/20261104_report_slides.md
+/DVLab (Ric Huang) Intro 01-06-2026.pdf

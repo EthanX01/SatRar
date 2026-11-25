@@ -1,0 +1,4 @@
+circuit	#wire	searched_wires	original_wires	wire:status	wire:#tar	wire:#alt	wire:#T	gate:status	gate:#tar	gate:#alt	gate:#T	gate_nolearn:status	gate_nolearn:#tar	gate_nolearn:#alt	gate_nolearn:#T	gate_nofilter:status	gate_nofilter:#tar	gate_nofilter:#alt	gate_nofilter:#T
+C3540	2540	2540	2939	ok	1064	4716	2.64055	search_limited	1919	159084	7.55207	search_limited	1919	152827	6.22686	timeout			
+C6288	4768	4768	4800	ok	0	0	0.442025	ok	1854	4869	0.454591	ok	1854	4869	0.453626	ok	1854	6866	0.497398
+C7552	5264	5264	6144	ok	2076	14576	13.9303	search_limited	3942	247752	18.0262	search_limited	3942	235559	18.3304	timeout			

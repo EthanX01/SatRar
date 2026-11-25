@@ -1,0 +1,15 @@
+circuit	mode	and_var	pin	stuck	expression	outcome	addition	removal	verify_seconds
+C3540	wire	59	0	0	attach=99 rule=Theorem-1 source_raw=229	verified_equivalent	equivalent	equivalent	0.786284
+C3540	wire	59	0	0	attach=99 rule=Theorem-1 source_raw=307	verified_equivalent	equivalent	equivalent	0.79904
+C3540	wire	59	0	0	attach=99 rule=Theorem-1 source_raw=311	verified_equivalent	equivalent	equivalent	0.927033
+C3540	wire	59	0	0	attach=99 rule=Theorem-1 source_raw=343	verified_equivalent	equivalent	equivalent	0.717954
+b14	wire	282	0	1	attach=283 rule=opposite-MA source_raw=69	verified_equivalent	equivalent	equivalent	6.11116
+b14	wire	282	0	1	attach=283 rule=opposite-MA source_raw=568	verified_equivalent	equivalent	equivalent	6.41321
+b14	wire	282	0	1	attach=283 rule=opposite-MA source_raw=606	verified_equivalent	equivalent	equivalent	5.09505
+b14	wire	282	0	1	attach=283 rule=opposite-MA source_raw=638	verified_equivalent	equivalent	equivalent	4.78075
+b14	wire	282	0	1	attach=283 rule=opposite-MA source_raw=913	verified_equivalent	equivalent	equivalent	4.2831
+b14	wire	282	0	1	attach=283 rule=opposite-MA source_raw=570	verified_equivalent	equivalent	equivalent	4.48514
+b14	wire	282	0	1	attach=283 rule=opposite-MA source_raw=608	verified_equivalent	equivalent	equivalent	4.78456
+b14	wire	282	0	1	attach=283 rule=opposite-MA source_raw=938	verified_equivalent	equivalent	equivalent	4.9479
+b15	wire	650	0	1	attach=1115 rule=Theorem-1 source_raw=3009	verified_equivalent	equivalent	equivalent	4.37427
+b15	wire	650	0	1	attach=1115 rule=Theorem-1 source_raw=4153	verified_equivalent	equivalent	equivalent	4.70149

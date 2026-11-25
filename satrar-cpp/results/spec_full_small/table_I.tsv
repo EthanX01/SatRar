@@ -1,0 +1,6 @@
+circuit	#wire	paper_wire_count	original_wires	topology_profile	wire:status	wire:coverage	wire:searched_wires	wire:complete_wires	wire:#tar	wire:#alt	wire:#T	l0:status	l0:coverage	l0:searched_wires	l0:complete_wires	l0:#tar	l0:#alt	l0:#T	l1:status	l1:coverage	l1:searched_wires	l1:complete_wires	l1:#tar	l1:#alt	l1:#T	l2:status	l2:coverage	l2:searched_wires	l2:complete_wires	l2:#tar	l2:#alt	l2:#T
+C432	424	336	336	aig	ok	full	424	424	237	1112	0.0427014	ok	full	424	424	165	633	0.0295898	ok	full	424	424	273	1319	0.0898254	ok	full	424	424	291	1390	1.09461
+C499	828	408	408	aig	ok	full	828	828	88	698	0.756768	ok	full	828	828	88	698	0.757334	ok	full	828	828	88	754	0.82992	ok	full	828	828	88	758	1.74089
+C6288	4768	4800	4800	aig	ok	full	4768	4768	0	0	0.435419	ok	full	4768	4768	0	0	0.423906	ok	full	4768	4768	30	30	0.546371	ok	full	4768	4768	30	30	1.1119
+b01	80	80	85	aig	ok	full	80	80	23	58	0.0034951	ok	full	80	80	20	33	0.002114	ok	full	80	80	23	59	0.0048622	ok	full	80	80	23	59	0.0134279
+b13	538	558	611	aig	ok	full	538	538	121	336	0.0218469	ok	full	538	538	64	223	0.0147678	ok	full	538	538	119	319	0.0383754	ok	full	538	538	121	340	0.114601

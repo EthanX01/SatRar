@@ -1,0 +1,16 @@
+[spec_full_medium] start 11/25/2026 11:18:12
+C3540 wire ok search=complete verify=unchecked coverage=full
+C3540 l0 ok search=complete verify=unchecked coverage=full
+C3540 l1 ok search=complete verify=unchecked coverage=full
+C3540 l2 ok search=complete verify=unchecked coverage=full
+C3540 gate ok search=complete verify=unchecked coverage=full
+C3540 gate_nolearn ok search=complete verify=unchecked coverage=full
+C3540 gate_nofilter ok search=complete verify=unchecked coverage=full
+C7552 wire ok search=complete verify=unchecked coverage=full
+C7552 l0 ok search=complete verify=unchecked coverage=full
+C7552 l1 ok search=complete verify=unchecked coverage=full
+C7552 l2 ok search=complete verify=unchecked coverage=full
+C7552 gate ok search=complete verify=unchecked coverage=full
+C7552 gate_nolearn ok search=complete verify=unchecked coverage=full
+C7552 gate_nofilter ok search=complete verify=unchecked coverage=full
+[spec_full_medium] exit 0 after 1273s

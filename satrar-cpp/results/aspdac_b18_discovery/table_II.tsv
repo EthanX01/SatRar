@@ -1,0 +1,2 @@
+circuit	#wire	searched_wires	original_wires	wire:status	wire:#tar	wire:#alt	wire:#T	gate:status	gate:#tar	gate:#alt	gate:#T	gate_nolearn:status	gate_nolearn:#tar	gate_nolearn:#alt	gate_nolearn:#T	gate_nofilter:status	gate_nofilter:#tar	gate_nofilter:#alt	gate_nofilter:#T
+b18	209160	1	219141	ok	0	0	1.18232	not_run				not_run				not_run			

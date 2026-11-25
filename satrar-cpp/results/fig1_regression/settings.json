@@ -1,0 +1,12 @@
+{
+  "exe_sha256": "2055ab4d818b0363dafc7669dc6ec203bacf067131f446c0f1e5913acbcff2d5",
+  "solver_sha256": "b0fe6b8f8582b854982693b4fb866b8adbda3816601edfe81c436e465797be35",
+  "solver_version": "2.1.0",
+  "host": "Windows-11-10.0.26200-SP0",
+  "wire_limit": 0,
+  "solver_timeout": 15,
+  "case_timeout": 90,
+  "scope": "all",
+  "verify": true,
+  "summary_only": false
+}

@@ -1,0 +1,6 @@
+aag 4 1 0 1 1
+2
+4
+4 2 0
+c
+z = x AND 0 (const false) for Phase 16A regression

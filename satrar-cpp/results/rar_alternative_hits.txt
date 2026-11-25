@@ -1,0 +1,8 @@
+C:\Users\User\Documents\file\NTU\EdaLab\satrar-cpp\tests\fixtures\and_self.aag	and_aigVar=2	pin=0	sa0	2WRAR_L0	attach_and=2,pin0	source_aigVar=1,pin1	inv=0
+C:\Users\User\Documents\file\NTU\EdaLab\satrar-cpp\tests\fixtures\and_self.aag	and_aigVar=2	pin=0	sa0	SRAR_Wire	attach_and=2,pin0	source_aigVar=1,pin1	inv=0
+C:\Users\User\Documents\file\NTU\EdaLab\satrar-cpp\tests\fixtures\and_self.aag	and_aigVar=2	pin=0	sa1	2WRAR_L0	attach_and=2,pin0	source_aigVar=1,pin1	inv=0
+C:\Users\User\Documents\file\NTU\EdaLab\satrar-cpp\tests\fixtures\and_self.aag	and_aigVar=2	pin=0	sa1	SRAR_Wire	attach_and=2,pin0	source_aigVar=1,pin1	inv=0
+C:\Users\User\Documents\file\NTU\EdaLab\satrar-cpp\tests\fixtures\and_self.aag	and_aigVar=2	pin=1	sa0	2WRAR_L0	attach_and=2,pin1	source_aigVar=1,pin0	inv=0
+C:\Users\User\Documents\file\NTU\EdaLab\satrar-cpp\tests\fixtures\and_self.aag	and_aigVar=2	pin=1	sa0	SRAR_Wire	attach_and=2,pin1	source_aigVar=1,pin0	inv=0
+C:\Users\User\Documents\file\NTU\EdaLab\satrar-cpp\tests\fixtures\and_self.aag	and_aigVar=2	pin=1	sa1	2WRAR_L0	attach_and=2,pin1	source_aigVar=1,pin0	inv=0
+C:\Users\User\Documents\file\NTU\EdaLab\satrar-cpp\tests\fixtures\and_self.aag	and_aigVar=2	pin=1	sa1	SRAR_Wire	attach_and=2,pin1	source_aigVar=1,pin0	inv=0

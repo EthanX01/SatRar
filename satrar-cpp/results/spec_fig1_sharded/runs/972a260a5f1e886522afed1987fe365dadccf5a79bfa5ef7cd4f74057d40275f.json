@@ -1,0 +1,122 @@
+{
+  "schema": 4,
+  "offset": 16,
+  "limit": 2,
+  "message": "",
+  "targets": [
+    [
+      "15",
+      "0",
+      "0",
+      "0",
+      "3.05e-05",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "none",
+      "none"
+    ],
+    [
+      "15",
+      "0",
+      "1",
+      "2",
+      "2e-05",
+      "0",
+      "0",
+      "0",
+      "2",
+      "0",
+      "none",
+      "none"
+    ],
+    [
+      "15",
+      "1",
+      "0",
+      "0",
+      "1.37e-05",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "none",
+      "none"
+    ],
+    [
+      "15",
+      "1",
+      "1",
+      "1",
+      "7.5e-06",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "none",
+      "none"
+    ]
+  ],
+  "candidates": [
+    [
+      "15",
+      "0",
+      "1",
+      "attach=15 rule=opposite-MA source_raw=29",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "none",
+      "0.0701301"
+    ],
+    [
+      "15",
+      "0",
+      "1",
+      "attach=15 rule=Theorem-2 negated_and_raw=21,27",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "none",
+      "0.072326"
+    ],
+    [
+      "15",
+      "1",
+      "1",
+      "attach=15 rule=opposite-MA source_raw=12",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "none",
+      "0.0709088"
+    ]
+  ],
+  "summary": [
+    18,
+    2,
+    2,
+    2,
+    3,
+    7.17e-05,
+    2,
+    3,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0.213365,
+    3.4e-06,
+    0.0,
+    2.19e-05,
+    8.8e-06
+  ],
+  "wall_seconds": 0.2229974000074435,
+  "search_status": "complete",
+  "verify_status": "complete"
+}

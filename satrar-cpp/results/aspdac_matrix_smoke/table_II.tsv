@@ -1,0 +1,13 @@
+circuit	#wire	searched_wires	original_wires	wire:status	wire:#tar	wire:#alt	wire:#T	gate:status	gate:#tar	gate:#alt	gate:#T	gate_nolearn:status	gate_nolearn:#tar	gate_nolearn:#alt	gate_nolearn:#T	gate_nofilter:status	gate_nofilter:#tar	gate_nofilter:#alt	gate_nofilter:#T
+C432	424	4	336	ok	2	3	0.0003404	ok	2	23	0.0004418	ok	2	23	0.000484	ok	2	39	0.0019175
+C499	828	4	408	ok	0	0	0.0105311	ok	4	4	0.0114779	ok	4	4	0.0118164	ok	4	4	0.010939
+C3540	2540	4	2939	ok	2	8	0.0037845	ok	2	67	0.0035743	ok	2	67	0.0036056	ok	2	102	0.0273976
+C6288	4768	4	4800	ok	0	0	0.001066	ok	0	0	0.0010588	ok	0	0	0.00123	ok	0	0	0.0011703
+C7552	5264	4	6144	ok	0	0	0.0014777	ok	0	0	0.0017148	ok	0	0	0.0015893	ok	0	0	0.0016904
+b01	80	4	85	ok	0	0	6.26e-05	ok	0	0	9.24e-05	ok	0	0	9.68e-05	ok	0	0	6.31e-05
+b13	538	4	611	ok	2	9	0.0002414	ok	2	14	0.0002392	ok	2	14	0.0002281	ok	2	18	0.0002496
+b14	18300	4	19162	ok	4	16	0.0122825	ok	4	89	0.0125944	ok	4	89	0.0148274	ok	4	114	0.0166152
+b15	17754	4	17693	ok	2	11	0.0114494	ok	2	1863	0.0211085	ok	2	1558	0.0223996	ok	2	3747	0.241887
+b17	62016	4	63200	ok	0	0	0.0224032	ok	0	0	0.0244628	ok	0	0	0.023389	ok	0	0	0.0216617
+b18	209160	4	219141	ok	0	0	0.253621	ok	0	0	0.414581	ok	0	0	0.414367	search_limited	0	0	5.19244
+b19				input_error				input_error				input_error				input_error			

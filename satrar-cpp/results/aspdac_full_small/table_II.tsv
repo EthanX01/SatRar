@@ -1,0 +1,5 @@
+circuit	#wire	searched_wires	original_wires	wire:status	wire:#tar	wire:#alt	wire:#T	gate:status	gate:#tar	gate:#alt	gate:#T	gate_nolearn:status	gate_nolearn:#tar	gate_nolearn:#alt	gate_nolearn:#T	gate_nofilter:status	gate_nofilter:#tar	gate_nofilter:#alt	gate_nofilter:#T
+C432	424	424	336	ok	237	1051	0.0500349	ok	338	18712	0.202445	ok	338	29020	0.252637	ok	338	30896	1.04726
+C499	828	828	408	ok	88	698	0.873204	ok	520	2234	0.906703	ok	520	2300	0.849444	ok	520	3026	1.80769
+b01	80	80	85	ok	23	58	0.0027845	ok	60	2929	0.0145435	ok	60	3002	0.0128884	ok	60	6828	0.0469304
+b13	538	538	611	ok	121	336	0.0216605	ok	350	7487	0.0507522	ok	350	7848	0.0447578	ok	350	15125	0.191169

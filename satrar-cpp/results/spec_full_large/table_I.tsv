@@ -1,0 +1,4 @@
+circuit	#wire	paper_wire_count	original_wires	topology_profile	wire:status	wire:coverage	wire:searched_wires	wire:complete_wires	wire:#tar	wire:#alt	wire:#T	l0:status	l0:coverage	l0:searched_wires	l0:complete_wires	l0:#tar	l0:#alt	l0:#T	l1:status	l1:coverage	l1:searched_wires	l1:complete_wires	l1:#tar	l1:#alt	l1:#T	l2:status	l2:coverage	l2:searched_wires	l2:complete_wires	l2:#tar	l2:#alt	l2:#T
+b14	18300	1.9e4	19162	aig	ok	full	18300	18300	6955	135384	624.875	ok	full	18300	18300	3820	14179	241.208	ok	full	18300	18300	7636	183519	510.237	not_run						
+b15	17754	1.7e4	17693	aig	ok	full	17754	17754	6115	37623	5313.32	ok	full	17754	17754	4709	27185	117.121	ok	full	17754	17754	5968	36602	282.913	not_run						
+b17	62016	6.2e4	63200	aig	ok	full	62016	62016	22551	123243	398.095	ok	full	62016	62016	15603	61319	272.324	ok	full	62016	62016	21418	99258	1553.54	not_run						

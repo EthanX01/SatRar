@@ -1,0 +1,118 @@
+{
+  "status": "ok",
+  "targets": [
+    [
+      "282",
+      "0",
+      "0",
+      "0",
+      "0.0060191",
+      "0",
+      "0"
+    ],
+    [
+      "282",
+      "0",
+      "1",
+      "8",
+      "0.0032958",
+      "0",
+      "0"
+    ]
+  ],
+  "candidates": [
+    [
+      "282",
+      "0",
+      "1",
+      "attach=283 rule=opposite-MA source_raw=69",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "7.02428"
+    ],
+    [
+      "282",
+      "0",
+      "1",
+      "attach=283 rule=opposite-MA source_raw=568",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "6.67777"
+    ],
+    [
+      "282",
+      "0",
+      "1",
+      "attach=283 rule=opposite-MA source_raw=606",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "5.96263"
+    ],
+    [
+      "282",
+      "0",
+      "1",
+      "attach=283 rule=opposite-MA source_raw=638",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "6.1822"
+    ],
+    [
+      "282",
+      "0",
+      "1",
+      "attach=283 rule=opposite-MA source_raw=913",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "5.18266"
+    ],
+    [
+      "282",
+      "0",
+      "1",
+      "attach=283 rule=opposite-MA source_raw=570",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "5.21161"
+    ],
+    [
+      "282",
+      "0",
+      "1",
+      "attach=283 rule=opposite-MA source_raw=608",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "5.55945"
+    ],
+    [
+      "282",
+      "0",
+      "1",
+      "attach=283 rule=opposite-MA source_raw=938",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "5.76403"
+    ]
+  ],
+  "summary": [
+    "18300",
+    "1",
+    "1",
+    "8",
+    "0.0093149",
+    "1",
+    "8",
+    "0",
+    "0",
+    "0",
+    "47.5646"
+  ]
+}

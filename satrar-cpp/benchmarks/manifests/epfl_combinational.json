@@ -1,0 +1,29 @@
+{
+  "name": "EPFL combinational (ASCII AIGER)",
+  "source": "https://github.com/lsils/benchmarks",
+  "format": "aag",
+  "note": "Converted from upstream .aig with aigtoaig; combinational only.",
+  "circuits": [
+    {"id": "adder", "category": "arithmetic", "path": "inputs/epfl-arithmetic/adder.aag"},
+    {"id": "bar", "category": "arithmetic", "path": "inputs/epfl-arithmetic/bar.aag"},
+    {"id": "div", "category": "arithmetic", "path": "inputs/epfl-arithmetic/div.aag"},
+    {"id": "hyp", "category": "arithmetic", "path": "inputs/epfl-arithmetic/hyp.aag"},
+    {"id": "log2", "category": "arithmetic", "path": "inputs/epfl-arithmetic/log2.aag"},
+    {"id": "max", "category": "arithmetic", "path": "inputs/epfl-arithmetic/max.aag"},
+    {"id": "multiplier", "category": "arithmetic", "path": "inputs/epfl-arithmetic/multiplier.aag"},
+    {"id": "sin", "category": "arithmetic", "path": "inputs/epfl-arithmetic/sin.aag"},
+    {"id": "sqrt", "category": "arithmetic", "path": "inputs/epfl-arithmetic/sqrt.aag"},
+    {"id": "square", "category": "arithmetic", "path": "inputs/epfl-arithmetic/square.aag"},
+    {"id": "arbiter", "category": "random_control", "path": "inputs/epfl-random_control/arbiter.aag"},
+    {"id": "cavlc", "category": "random_control", "path": "inputs/epfl-random_control/cavlc.aag"},
+    {"id": "ctrl", "category": "random_control", "path": "inputs/epfl-random_control/ctrl.aag"},
+    {"id": "dec", "category": "random_control", "path": "inputs/epfl-random_control/dec.aag"},
+    {"id": "i2c", "category": "random_control", "path": "inputs/epfl-random_control/i2c.aag"},
+    {"id": "int2float", "category": "random_control", "path": "inputs/epfl-random_control/int2float.aag"},
+    {"id": "mem_ctrl", "category": "random_control", "path": "inputs/epfl-random_control/mem_ctrl.aag"},
+    {"id": "priority", "category": "random_control", "path": "inputs/epfl-random_control/priority.aag"},
+    {"id": "router", "category": "random_control", "path": "inputs/epfl-random_control/router.aag"},
+    {"id": "voter", "category": "random_control", "path": "inputs/epfl-random_control/voter.aag"}
+  ],
+  "aiger_teaching_examples": "inputs/aiger-examples/"
+}

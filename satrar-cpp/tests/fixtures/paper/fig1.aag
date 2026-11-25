@@ -1,0 +1,23 @@
+aag 15 6 0 2 9
+2
+4
+6
+8
+10
+12
+23
+30
+14 8 4
+16 10 7
+18 4 2
+20 14 6
+22 17 15
+24 17 9
+26 25 18
+28 27 21
+30 29 12
+c
+ASP-DAC Figure 1 style combinational fixture (audit 2026-11-24).
+AAG vars: g1..g9 signed literals 14,16,18,20,23,25,26,29,30.
+Targets: g6->g7 receiving pin = AND AAG var 13 input pin 0; g9 output = var 15.
+PI order for oracle: a,b,c,d,e,f (vars 2,4,6,8,10,12).

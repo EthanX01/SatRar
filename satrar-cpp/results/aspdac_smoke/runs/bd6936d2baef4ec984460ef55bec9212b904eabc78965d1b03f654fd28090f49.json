@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "targets": [
+    [
+      "650",
+      "0",
+      "0",
+      "0",
+      "0.0035413",
+      "0",
+      "0"
+    ],
+    [
+      "650",
+      "0",
+      "1",
+      "2",
+      "0.0020007",
+      "0",
+      "0"
+    ]
+  ],
+  "candidates": [
+    [
+      "650",
+      "0",
+      "1",
+      "attach=1115 rule=Theorem-1 source_raw=3009",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "4.37427"
+    ],
+    [
+      "650",
+      "0",
+      "1",
+      "attach=1115 rule=Theorem-1 source_raw=4153",
+      "verified_equivalent",
+      "equivalent",
+      "equivalent",
+      "4.70149"
+    ]
+  ],
+  "summary": [
+    "17754",
+    "1",
+    "1",
+    "2",
+    "0.005542",
+    "1",
+    "2",
+    "0",
+    "0",
+    "0",
+    "9.07575"
+  ]
+}

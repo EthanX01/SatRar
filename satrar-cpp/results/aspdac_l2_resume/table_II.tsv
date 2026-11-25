@@ -1,0 +1,3 @@
+circuit	#wire	searched_wires	original_wires	wire:status	wire:#tar	wire:#alt	wire:#T	gate:status	gate:#tar	gate:#alt	gate:#T	gate_nolearn:status	gate_nolearn:#tar	gate_nolearn:#alt	gate_nolearn:#T	gate_nofilter:status	gate_nofilter:#tar	gate_nofilter:#alt	gate_nofilter:#T
+C3540	2540	2540	2939	not_run				not_run				not_run				not_run			
+C7552	5264	4000	6144	not_run				not_run				not_run				not_run			

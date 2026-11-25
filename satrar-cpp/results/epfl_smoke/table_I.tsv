@@ -1,0 +1,3 @@
+circuit	#wire	searched_wires	original_wires	wire:status	wire:#tar	wire:#alt	wire:#T	l0:status	l0:#tar	l0:#alt	l0:#T	l1:status	l1:#tar	l1:#alt	l1:#T	l2:status	l2:#tar	l2:#alt	l2:#T
+ctrl	348	4		ok	0	0	0.0003212	ok	0	0	0.0003236	ok	0	0	0.0003865	ok	0	0	0.0003843
+dec	608	4		ok	0	0	0.0006554	ok	0	0	0.0010028	ok	0	0	0.0009868	ok	0	0	0.0009951

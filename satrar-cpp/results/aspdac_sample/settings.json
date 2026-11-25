@@ -1,0 +1,11 @@
+{
+  "exe_sha256": "6bab58d3561e0138e71af9d6ee90f6833e9224c839f0ad35ec2db4881b315232",
+  "solver_sha256": "b0fe6b8f8582b854982693b4fb866b8adbda3816601edfe81c436e465797be35",
+  "solver_version": "2.1.0",
+  "host": "Windows-11-10.0.26200-SP0",
+  "wire_limit": 0,
+  "solver_timeout": 15,
+  "case_timeout": 120,
+  "scope": "paper",
+  "verify": false
+}
