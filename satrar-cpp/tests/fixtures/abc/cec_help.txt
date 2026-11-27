@@ -1,0 +1,16 @@
+======== ABC command line "cec -h"
+usage: cec [-T num] [-C num] [-I num] [-P num] [-psnvh] <file1> <file2>
+	         performs combinational equivalence checking
+	-T num : approximate runtime limit in seconds [default = 20]
+	-C num : limit on the number of conflicts [default = 10000]
+	-I num : limit on the number of clause inspections [default = 0]
+	-P num : partition size for multi-output networks [default = unused]
+	-p     : toggle automatic partitioning [default = no]
+	-s     : toggle "SAT only" and "FRAIG + SAT" [default = FRAIG + SAT]
+	-n     : toggle how CIs/COs are matched (by name or by order) [default = by name]
+	-v     : toggle verbose output [default = no]
+	-h     : print the command usage
+	file1  : (optional) the file with the first network
+	file2  : (optional) the file with the second network
+	         if no files are given, uses the current network and its spec
+	         if one file is given, uses the current network and the file

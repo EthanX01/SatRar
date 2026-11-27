@@ -1,0 +1,3 @@
+======== ABC command line "read_aiger C:/Users/User/Documents/file/NTU/EdaLab/satrar-cpp/tests/fixtures/paper/fig1.aag"
+Wrong input file format.
+Reading AIG from file has failed.

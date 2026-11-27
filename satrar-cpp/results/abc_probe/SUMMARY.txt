@@ -1,0 +1,15 @@
+abc: C:\Users\User\Documents\file\NTU\EdaLab\satrar-cpp\tools\abc\bin\yosys-abc.exe
+banner_exit: 0
+echo_works: True
+read_aag_ok: False
+fig1_command: cec fig1.aig fig1-rewritten.aig
+fig1_vs_rewritten: equivalent
+fig1_vs_bad: not_equivalent
+c3540_self_mean_ms: 42.8
+c3540_opt_cec_by_name: failed pi00 vs i0
+c3540_opt_cec_order: equivalent 0.10 sec, wall 161 ms
+c3540_opt_gcec: equivalent 0.03 sec, wall 76 ms
+recommended_command: &cec
+batch100_per_job_ms: 2.12
+gate_correctness: pass
+gate_speed_40ms: pass

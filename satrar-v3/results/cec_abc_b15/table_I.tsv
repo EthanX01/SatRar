@@ -1,0 +1,2 @@
+circuit	#wire	paper_wire_count	original_wires	topology_profile	wire:status	wire:coverage	wire:searched_wires	wire:complete_wires	wire:#tar	wire:#alt	wire:#T	l0:status	l0:coverage	l0:searched_wires	l0:complete_wires	l0:#tar	l0:#alt	l0:#T	l1:status	l1:coverage	l1:searched_wires	l1:complete_wires	l1:#tar	l1:#alt	l1:#T	l2:status	l2:coverage	l2:searched_wires	l2:complete_wires	l2:#tar	l2:#alt	l2:#T
+b15	17754	1.7e4	17693	aig	timeout	partial	0	0	0	0	0	not_run							not_run							not_run						

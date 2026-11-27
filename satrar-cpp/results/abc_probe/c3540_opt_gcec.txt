@@ -1,0 +1,2 @@
+======== ABC command line "&cec c3540.aig c3540_opt.aig"
+Networks are equivalent.  Time =     0.03 sec

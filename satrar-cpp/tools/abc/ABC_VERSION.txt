@@ -1,0 +1,8 @@
+source: oss-cad-suite-windows-x64-20261125
+url: https://github.com/YosysHQ/oss-cad-suite-build/releases/download/2026-11-25/oss-cad-suite-windows-x64-20261125.tgz
+archive_sha256: 2153bf7a7f4fa43250ceac845307fd8c139a47bbbf39475dad0e6061874ccba9
+path: tools/abc/bin/yosys-abc.exe
+exe_sha256: b519abdd0abb65f6b470d007c697b333d4667a8d3183f64e4a3d4c6e12d361d7
+banner: UC Berkeley, ABC 1.01 (compiled Nov 25 2026 09:48:23)
+runtime_dlls: libgcc_s_seh-1.dll libreadline8.dll libstdc++-6.dll libwinpthread-1.dll libtermcap-0.dll
+note: DLLs are copied from oss-cad-suite/lib into tools/abc/bin so the executable finds them beside itself.

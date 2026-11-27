@@ -38,4 +38,13 @@ The Figure 1 count stays 623, but the candidate sets of the learning modes (`gat
 * R7 profiling counters exist (`prof_*` columns: setup, projection, trials, canonicalization; CEC is `verify_seconds`) but no bottleneck analysis or optimization was done. Peak memory in `run_report.json` covers the Python runner only.
 * Checkpoints are not reused across different timeout or trial caps (a different cap is a different key).
 * R8 (extended source coverage, original-topology profile, arrival-time ordering) was not started.
+
+## ABC CEC Phase 0 (2026-11-26)
+
+OSS CAD Suite `2026-11-25` supplies `tools/abc/bin/yosys-abc.exe` (ABC 1.01, compiled Nov 25 2026). The archive and the DLLs are gitignored; `tools/abc/ABC_VERSION.txt` records the hashes. `read_aiger` rejects this project's ASCII AAG, so `scripts/aag_to_aig.py` writes binary AIGER. Probe (`scripts/abc_probe.ps1`, `results/abc_probe/SUMMARY.txt`):
+
+* Figure 1 against the rewritten circuit is equivalent by structural hashing. Inverting one output is not equivalent, and ABC prints the differing output.
+* One ABC process checking C3540 against itself 100 times costs 2.12 ms per job. The 40 ms gate passes.
+* C3540 against an ABC-rewritten copy is equivalent: `&cec` in 0.03 s, `cec -n` in 0.10 s. Plain `cec` fails because `write_aiger` renames inputs to `pi00`.
+* Phase 2 command is `&cec` (positional). `echo` works and leaves a trailing space. Both decision gates passed, so Phase 1 can start.
 * `docs/Cursor_Composer_SatRAR_Plan_v2.md` and the 2026-11-24 audit still describe the earlier state.

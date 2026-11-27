@@ -1,0 +1,3 @@
+======== ABC command line "&cec fig1.aig fig1-bad.aig"
+Networks are NOT EQUIVALENT. Output 0 trivially differs (different phase).  Time =     0.00 sec
+INPUT: i0 = 1'h0, i1 = 1'h0, i2 = 1'h0, i3 = 1'h0, i4 = 1'h0, i5 = 1'h0.  OUTPUT: z = 2'h0 (fig1), z = 2'h1 (fig1-bad).

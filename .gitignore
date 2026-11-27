@@ -1,6 +1,11 @@
 # Generated build trees. Source, fixtures, benchmarks, and recorded results stay.
 satrar-cpp/build/
 satrar-cpp/build-msvc/
+satrar-v3/build/
+satrar-v3/build-msvc/
+satrar-cpp/tools/abc/bin/
+satrar-cpp/tools/abc/oss-cad-suite/
+satrar-cpp/tools/abc/*.tgz
 satrar-circuit-v2/build-msvc/
 **/__pycache__/
 ~$*

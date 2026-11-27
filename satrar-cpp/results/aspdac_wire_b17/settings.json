@@ -1,0 +1,19 @@
+{
+  "schema": 4,
+  "converter_version": "bench_to_aag-2",
+  "topology_profile": "aig",
+  "pin_order": "topological-fanin-v1",
+  "exe_sha256": "913b484ae44abec91058bc7f6f9c0af077c067b1d41c3578a6e0d5bd2410ceef",
+  "solver_sha256": "b0fe6b8f8582b854982693b4fb866b8adbda3816601edfe81c436e465797be35",
+  "solver_version": "2.1.0",
+  "host": "Windows-11-10.0.26200-SP0",
+  "wire_limit": 0,
+  "solver_timeout": 15,
+  "case_timeout": 14400,
+  "scope": "paper",
+  "verify": false,
+  "summary_only": true,
+  "max_trials": 1000000,
+  "shard_wires": 0,
+  "decision_depth": 2
+}

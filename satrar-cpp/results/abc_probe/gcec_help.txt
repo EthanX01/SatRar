@@ -1,0 +1,28 @@
+======== ABC command line "&cec -h"
+usage: &cec [-CT num] [-M str] [-D str] [-B str] [-I str] [-A kind] [-F str] [-nmdbasxytvwh]
+	         new combinational equivalence checker
+	         native XORs are expanded to ANDs in the verification copy
+	-C num : the max number of conflicts at a node [default = 1000]
+	-T num : approximate runtime limit in seconds [default = 0]
+	-M str : top module name for HDL inputs [default = inferred]
+	-A kind: abstract inferred mem or mul operators (repeatable)
+	-D str : macro definition for HDL inputs (repeatable) [default = none]
+	-B str : declared HDL module to abstract as a cut (repeatable) [default = none]
+	-I str : exact instance path, rooted at or relative to the top (repeatable)
+	-F str : additional HDL file read with each HDL operand [default = none]
+	-n     : toggle using naive SAT-based checking [default = no]
+	-m     : toggle miter vs. two circuits [default = two circuits]
+	-d     : toggle using dual output miter [default = no]
+	-b     : toggle using saved specification [default = no]
+	-a     : toggle writing dual-output miter [default = no]
+	-s     : toggle silent operation [default = no]
+	-x     : toggle using new solver [default = no]
+	-y     : toggle using new solver [default = no]
+	-t     : toggle using simulation; accepts one .truth file for the current network [default = no]
+	-v     : toggle verbose output [default = no]
+	-w     : toggle printing SAT solver statistics [default = no]
+	-h     : print the command usage
+	Interfaces match positionally, never by name; PI/PO/flop counts must agree.
+	Flops must be preserved; this is combinational, not sequential equivalence.
+	Cut proofs are conditional on aligned abstract outputs, not proof of removed internals.
+	-F may require -M if the additional source introduces another top module.

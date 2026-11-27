@@ -1,0 +1,7 @@
+circuit	#wire	paper_wire_count	original_wires	topology_profile	wire:status	wire:coverage	wire:searched_wires	wire:complete_wires	wire:#tar	wire:#alt	wire:#T	gate:status	gate:coverage	gate:searched_wires	gate:complete_wires	gate:#tar	gate:#alt	gate:#T	gate_nolearn:status	gate_nolearn:coverage	gate_nolearn:searched_wires	gate_nolearn:complete_wires	gate_nolearn:#tar	gate_nolearn:#alt	gate_nolearn:#T	gate_nofilter:status	gate_nofilter:coverage	gate_nofilter:searched_wires	gate_nofilter:complete_wires	gate_nofilter:#tar	gate_nofilter:#alt	gate_nofilter:#T
+C499	828	408	408	aig	ok	full	828	828	88	698	1.14504	not_run							not_run							not_run						
+C3540	2540	2939	2939	aig	ok	full	2540	2540	1064	4804	7.50048	not_run							not_run							not_run						
+C6288	4768	4800	4800	aig	ok	full	4768	4768	0	0	0.45221	not_run							not_run							not_run						
+C7552	5264	6144	6144	aig	ok	full	5264	5264	2076	15803	26.7923	not_run							not_run							not_run						
+b01	80	80	85	aig	ok	full	80	80	23	58	0.0040037	not_run							not_run							not_run						
+b13	538	558	611	aig	ok	full	538	538	121	336	0.0544622	not_run							not_run							not_run						

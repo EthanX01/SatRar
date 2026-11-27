@@ -1,0 +1,23 @@
+{
+  "schema": 5,
+  "converter_version": "bench_to_aag-2",
+  "topology_profile": "aig",
+  "pin_order": "topological-fanin-v1",
+  "exe_sha256": "2b84b24377a15af1dbedfb2c87a920210b6313f64321d07a43330bb5c57b9510",
+  "abc_sha256": "b519abdd0abb65f6b470d007c697b333d4667a8d3183f64e4a3d4c6e12d361d7",
+  "abc_banner": "======== ABC command line \"quit\"",
+  "host": "Windows-11-10.0.26200-SP0",
+  "wire_limit": 0,
+  "solver_timeout": 30,
+  "case_timeout": 1800,
+  "scope": "paper",
+  "verify": true,
+  "summary_only": true,
+  "max_trials": 1000000,
+  "shard_wires": 0,
+  "decision_depth": 2,
+  "cec_stages": "two",
+  "cec_batch": 32,
+  "cec_jobs": 4,
+  "keep_cec_files": false
+}

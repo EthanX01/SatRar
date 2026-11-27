@@ -1,0 +1,6 @@
+======== ABC command line "cec -n fig1.aig fig1-bad.aig"
+Networks are NOT EQUIVALENT after structural hashing.  INPUT: pi0 = 1'h0, pi1 = 1'h0, pi2 = 1'h0, pi3 = 1'h0, pi4 = 1'h0, pi5 = 1'h0.  OUTPUT: po0 = 1'h0, po1 = 1'h0 (fig1), po0 = 1'h1, po1 = 1'h0 (fig1-bad).
+Verification failed for at least 1 outputs:  po0
+Output po0: Value in Network1 = 0. Value in Network2 = 1.
+Input pattern:  pi1=0 pi3=0 pi2=0 pi4=0
+Time =     0.00 sec
